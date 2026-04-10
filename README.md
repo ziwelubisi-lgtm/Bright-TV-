@@ -3,14 +3,14 @@ This repository contains a comprehensive SQL-based analysis of the Bright TV dat
 
 # 📺 Bright TV Data Analysis
 
-## 📌 Overview
+## 📌 What it is about 
 This project focuses on analyzing the Bright TV dataset using SQL to transform raw data into meaningful insights. The dataset contains user demographic information such as name, age, gender, province, email, and social media handle.
 
 The goal of this project is to demonstrate data cleaning, transformation, and exploratory data analysis (EDA) skills while generating insights that support data-driven decision-making.
 
 ---
 
-## 🎯 Objectives
+## 🎯 Goals
 - Clean and prepare raw data for analysis  
 - Create meaningful features (e.g., age groups, email domains)  
 - Analyze user demographics and distribution  
@@ -19,7 +19,7 @@ The goal of this project is to demonstrate data cleaning, transformation, and ex
 
 ---
 
-## 🗂️ Dataset Description
+## 🗂️ Dataset Column Descriptions
 
 | Column Name            | Description                          |
 |-----------------------|--------------------------------------|
