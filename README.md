@@ -90,4 +90,7 @@ Removed “@” from social media handles to standardize usernames.
 ## 🛠️ Tools & Technologies
 - SQL  
 - Excel / CSV  
-  
+
+
+## Loveable Presentation
+https://preview--makaziwe.lovable.app/
